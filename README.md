@@ -54,7 +54,4 @@ Goals
 - Secure a Data Analyst Internship
 - Continuously improve analytical and technical skills
 
-Connect With Me
 
-- GitHub: github.com/dadasahil
-- LinkedIn: Add your LinkedIn profile here
